@@ -2,6 +2,7 @@
 
 [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
+[![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg)](https://www.linkedin.com/in/jaiminbariya/)
 [![Instagram Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/instagram.svg)](https://www.instagram.com/jaiminbariya_/?hl=en)
 
 ---
@@ -83,15 +84,27 @@ Talk to me about:
 
 ---
 ---
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+
+
+
 ## Hello Coders! 😎
-- 🔭 I’m currently working on open-source todo list app: ToDoTock 
-- 🌱 I’m currently learning some Frameworks and python libraries 
-- 💬 Ask me about python, JS, DSA, etc 
-- 📫 How to reach me: [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
+- 🔭 &nbsp; I’m currently working on open-source todo list app: ToDoTock 
+- 🌱 &nbsp; I’m currently learning some Frameworks and python libraries 
+- 💬 &nbsp; Ask me about python, JS, DSA, etc 
+- 📫 &nbsp; How to reach me: [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
 [![Instagram Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/instagram.svg)](https://www.instagram.com/jaiminbariya_/?hl=en)
-- 🎯 Portfolio site: 
-- ⚡ Fun fact: Let's build it...
+- 📫 &nbsp; Reach me out: jaiminbariya150@gmail.com.
+- 🎯 &nbsp; Portfolio site: 
+- ⚡ &nbsp; Fun fact: Let's build it...
 
 
 
