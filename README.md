@@ -21,11 +21,8 @@ Talk to me about:
 - **Front-end development** using **HTML, Javascript, CSS, Bootstrap**.
 - **Backend development** using **Flask, Django**.
 - **Relational Database Management Systems**.
-- **Robust full-stack system design** implementation.
-- **Desktop application development** using **Flutter** (Still learning).
-- **Mobile application development** using **Flutter and Kotlin**.
-- **Scalable cloud architecture** using **AWS Cloud**.
-- **Solving data structure and algorithm questions** in **Java and Python**.
+- **Mobile application development** using **Python, JavaScript**.
+- **Solving data structure and algorithm questions** in **C++ and Python**.
 
 
 
