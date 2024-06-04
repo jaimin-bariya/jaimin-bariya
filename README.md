@@ -106,8 +106,11 @@ Talk to me about:
 - ⚡ &nbsp; Fun fact: below here ⬇️
 
 1. **Zen of Python:** If you type import this in the Python interpreter, you'll get a poem called "The Zen of Python" by Tim Peters, which contains guiding principles for writing computer programs in Python.
-2. **Easter Eggs:** Python has some fun easter eggs. Try typing import antigravity in the Python interpreter, and it will open a webcomic about Python in your web browser!
+  
+2.  **Easter Eggs:** Python has some fun easter eggs. Try typing import antigravity in the Python interpreter, and it will open a webcomic about Python in your web browser!
+
 3. **Name Origin:** Python is named after the British comedy series "Monty Python's Flying Circus," not the snake 🐍. Guido van Rossum, the creator of Python, wanted a name that was short, unique, and slightly mysterious.
+
 4.**Multi-paradigm:** Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. This makes it very versatile and powerful.
 
 
