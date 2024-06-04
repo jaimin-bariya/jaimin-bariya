@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
 [![Instagram Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/instagram.svg)](https://www.instagram.com/jaiminbariya_/?hl=en)
 
-
+---
 
 
 
@@ -13,6 +13,21 @@ Hey there! I'm Jaimin Bariya 👨‍💻 from Vadodara, Gujarat, India. I'm doin
 I enjoy **problem-solving** and **first-principle thinking**. I'm driven by purpose and enjoy the challenge of finding solutions. I have a strong background in **Python, Javascript, Django, Flask, and React.js**. Me and my team have made projects on **Frontend, Backend, Machine Learning**, and building scalable products from scratch. My goal is to make a positive impact through technology.
 
 Feel free to connect with me @jaimin-bariya for anything tech-related or just to say hello! Let's shape the future of tech together. 🌟
+
+---
+
+## ⚡Languages, Tools and Technologies
+Talk to me about:
+- **Front-end development** using **HTML, Javascript, CSS, Bootstrap**.
+- **Backend development** using **Flask, Django**.
+- **Relational Database Management Systems**.
+- **Robust full-stack system design** implementation.
+- **Desktop application development** using **Flutter** (Still learning).
+- **Mobile application development** using **Flutter and Kotlin**.
+- **Scalable cloud architecture** using **AWS Cloud**.
+- **Solving data structure and algorithm questions** in **Java and Python**.
+
+
 
 ---
 - 🔭 I’m currently working on ...
