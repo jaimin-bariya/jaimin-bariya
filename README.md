@@ -6,12 +6,15 @@
 
 
 
-I am Jaimin Bariya 👨‍💻. I am from Vadodara, Gujarat, India and currently doing my MCA-AI from India's top-notch University - Parul University, India 🎓. I'm an explorer of new tech, an avid learner, and a problem-solver.
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Python, Javascript, Django, Flask, React.js, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and building scalable products from scratch with the commitment to making a positive impact through technology.
 
-Feel free to connect with me @jaimin-bariya for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Hey there! I'm Jaimin Bariya 👨‍💻 from Vadodara, Gujarat, India. I'm doing my MCA-AI at Parul University, one of the top universities in India 🎓. I love exploring new tech, learning new things, and solving problems.
 
+I enjoy **problem-solving** and **first-principle thinking**. I'm driven by purpose and enjoy the challenge of finding solutions. I have a strong background in **Python, Javascript, Django, Flask, and React.js**. Me and my team have made projects on **Frontend, Backend, Machine Learning**, and building scalable products from scratch. My goal is to make a positive impact through technology.
+
+Feel free to connect with me @jaimin-bariya for anything tech-related or just to say hello! Let's shape the future of tech together. 🌟
+
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
