@@ -3,7 +3,10 @@
 [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
 [![Instagram Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/instagram.svg)](https://www.instagram.com/jaiminbariya_/?hl=en)
-Here are some ideas to get you started:
+
+
+
+I am Jaimin Bariya 👨‍💻. I am from Vadodara, Gujarat, India and currently doing my MCA-AI from India's top-notch University - Parul University, India 🎓. I love to explore and learn about new things.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
