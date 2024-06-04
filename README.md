@@ -1,8 +1,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/Hi.gif" width="30px"></h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
+[![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
+[![Instagram Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/instagram.svg)](https://www.instagram.com/jaiminbariya_/?hl=en)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
