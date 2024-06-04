@@ -2,7 +2,6 @@
 
 [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
-[![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg)](https://www.linkedin.com/in/jaiminbariya/)
 [![Instagram Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/instagram.svg)](https://www.instagram.com/jaiminbariya_/?hl=en)
 
 ---
