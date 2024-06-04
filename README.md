@@ -21,6 +21,7 @@ Talk to me about:
 - **Front-end development** using **HTML, Javascript, CSS, Bootstrap**.
 - **Backend development** using **Flask, Django**.
 - **Relational Database Management Systems**.
+- **Containerization using Docker.**.
 - **Mobile application development** using **Python, JavaScript**.
 - **Solving data structure and algorithm questions** in **C++ and Python**.
 
@@ -30,51 +31,51 @@ Talk to me about:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/js.jpg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Jsonnet
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/htmlcss.png" width="48" height="48" alt="HTML CSS" />
       </a>
-      <br>TypeScript
+      <br>HTML CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/django.png" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/flask.jpg" width="48" height="48" alt="Flask" />
       </a>
-      <br>Kubernetes
+      <br>Flask
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/mysql.pngwidth="48" height="48" alt="MySQL" />
       </a>
-      <br>Docker
+      <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/postgresql.avif" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Debian
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Grafana
+      <br>Docker
     </td>
   </tr>
 </table>
