@@ -97,13 +97,18 @@ Talk to me about:
 ## Hello Coders! 😎
 - 🔭 &nbsp; I’m currently working on open-source todo list app: ToDoTock 
 - 🌱 &nbsp; I’m currently learning some Frameworks and python libraries 
-- 💬 &nbsp; Ask me about python, JS, DSA, etc 
+- 💬 &nbsp; Ask me anything at [here]()! I am happy to help.
 - 📫 &nbsp; How to reach me: [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
 [![Instagram Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/instagram.svg)](https://www.instagram.com/jaiminbariya_/?hl=en)
-- 📫 &nbsp; Reach me out: jaiminbariya150@gmail.com.
+- 📫 &nbsp; Reach me out: 
 - 🎯 &nbsp; Portfolio site: 
-- ⚡ &nbsp; Fun fact: Let's build it...
+- ⚡ &nbsp; Fun fact: below here ⬇️
+
+1. Zen of Python: If you type import this in the Python interpreter, you'll get a poem called "The Zen of Python" by Tim Peters, which contains guiding principles for writing computer programs in Python.
+2. Easter Eggs: Python has some fun easter eggs. Try typing import antigravity in the Python interpreter, and it will open a webcomic about Python in your web browser!
+3. Name Origin: Python is named after the British comedy series "Monty Python's Flying Circus," not the snake 🐍. Guido van Rossum, the creator of Python, wanted a name that was short, unique, and slightly mysterious.
+4. Multi-paradigm: Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. This makes it very versatile and powerful.
 
 
 
