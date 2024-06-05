@@ -104,7 +104,7 @@ Talk to me about:
 
 3. **Name Origin:** Python is named after the British comedy series "Monty Python's Flying Circus," not the snake 🐍. Guido van Rossum, the creator of Python, wanted a name that was short, unique, and slightly mysterious.
 
-4.**Multi-paradigm:** Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. This makes it very versatile and powerful.
+4. **Multi-paradigm:** Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. This makes it very versatile and powerful.
 
 
 
