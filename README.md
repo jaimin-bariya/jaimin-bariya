@@ -10,7 +10,11 @@
 
 Hey there! I'm Jaimin Bariya 👨‍💻 from Gujarat, India, passionate about AI/ML, Python, JavaScript, C++ and my two favorite forms of art: creativity, stargazing, music, running, and movies!
 
-I enjoy **problem-solving** and **first-principle thinking**. I'm driven by purpose and enjoy the challenge of finding solutions. I have a strong background in **Python, Javascript, Django, Flask, and React.js**. Me and my team have made projects on **Frontend, Backend, Machine Learning**, and building scalable products from scratch. My goal is to make a positive impact through technology.
+I enjoy **problem-solving** and **first-principle thinking**. I'm driven by purpose and enjoy the challenge of finding solutions. 
+
+---
+
+I have a strong background in **Python, Javascript, Django, Flask, and React.js**. Me and my team have made projects on **Frontend, Backend, Machine Learning**, and building scalable products from scratch. My goal is to make a positive impact through technology.
 
 Feel free to connect with me @jaimin-bariya for anything tech-related or just to say hello! Let's shape the future of tech together. 🌟
 
