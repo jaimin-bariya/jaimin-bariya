@@ -91,8 +91,6 @@ Talk to me about:
 
 
 ## Hello Coders! 😎
-- 🔭 &nbsp; I’m currently working on open-source todo list app: ToDoTock 
-- 🌱 &nbsp; I’m currently learning some Frameworks and python libraries 
 - 💬 &nbsp; Ask me anything at [here]()! I am happy to help.
 - 📫 &nbsp; How to reach me: [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
