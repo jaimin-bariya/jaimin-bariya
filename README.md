@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>, JP Here! <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>, I am JP! 😅 <img src="https://github.com/jaimin-bariya/jaimin-bariya/blob/main/Hi.gif" width="30px"></h2>
 
 [![Twitter Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/twitter.svg)](https://x.com/jaiminbariya_)
 [![Linkedin Badge](https://github.com/jaimin-bariya/jaimin-bariya/blob/main/linkedin.svg)](https://www.linkedin.com/in/jaiminbariya/)
